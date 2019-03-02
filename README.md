@@ -223,6 +223,10 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Visualizing Cross-validation Code](http://www.kdnuggets.com/2017/09/visualizing-cross-validation-code.html) Sep 2017.
 - [Selecting the best model in scikit-learn using cross-validation](https://www.youtube.com/watch?v=6dbrR-WymjI) June 2015.
 
+#### Random search vs grid search 
+- [Random search vs grid search](https://medium.com/rants-on-machine-learning/smarter-parameter-sweeps-or-why-grid-search-is-plain-stupid-c17d97a0e881)
+
+
 #### Bias/Variance
 
 - [Bias-Variance Tradeoff in Machine Learning](https://www.learnopencv.com/bias-variance-tradeoff-in-machine-learning/)
@@ -306,6 +310,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Support Vector Machines: A Simple Explanation](http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html)
 - [An introduction to Support Vector Machines (SVM)](https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/)
 - [Support Vector Machine (SVM) Tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93) August 2017.
+- [SVM dual, kernels and regression](http://www.robots.ox.ac.uk/~az/lectures/ml/lect3.pdf)
+
 
 #### Association Rule Mining
 
@@ -336,7 +342,8 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs&feature=youtu.be)
 - [A survey of food recommenders](https://arxiv.org/abs/1809.02862)
 - [Recommenders galore](https://github.com/Microsoft/Recommenders)
-
+- [Various implementations of Collaborative Filtering](https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0)
+- [Introduction to recommender system part 2 adoption of neural network](https://towardsdatascience.com/introduction-to-recommender-system-part-2-adoption-of-neural-network-831972c4cbf7)
 
 #### RFM Analysis
 
@@ -346,6 +353,7 @@ Machine-Learning Algorithms](http://mitsloan.mit.edu/media/Lo_ConsumerCreditRisk
 - [Video: Ensemble](https://www.youtube.com/watch?v=Un9zObFjBH0)
 - [Ensemble Learning to Improve Machine Learning Results](http://www.kdnuggets.com/2017/09/ensemble-learning-improve-machine-learning-results.html) Sep 2017.
 - [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
+- [Xgboost(Extreme Gradient Boosting)](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
 
 #### Social Network Analysis/Graphs
 - [Network Analysis and Visualization with R and igraph](http://www.kateto.net/wp-content/uploads/2016/01/NetSciX_2016_Workshop.pdf)
